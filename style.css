@@ -1,0 +1,179 @@
+.background-image-container{
+    background-image: url(https://mark-mad.github.io/parallax-website/assets/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.7;
+}
+
+.heading-container{
+    text-align: center;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    line-height: 1.8rem;
+}
+
+.heading-first{
+    background-color: black;
+    padding: 2rem;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    outline: 0.5rem inset purple;
+    outline-offset: 1rem;
+    text-transform: uppercase;
+    line-height: 5rem;
+} 
+
+.paragraph{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    padding: 3rem;
+}
+
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #666;
+    font-family: sans-serif;
+}
+
+p{
+    padding: 1rem;
+    color: #666;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.background-image-container-2{
+    background-image: url(https://mark-mad.github.io/parallax-website/assets/bg2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.7;
+}
+
+.logo{
+    width: 30%;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.paragraph-2{
+    background-color: #282e34;
+    height: 35vh;
+}
+
+.solution{
+    color: white;
+    font-family: sans-serif;
+    font-size: 24px;
+    padding: 2rem;
+}
+
+.aws{
+    color: white;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.background-image-container-3{
+    background-image: url(https://mark-mad.github.io/parallax-website/assets/bg3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.7;
+}
+
+.heading-first-3{
+    background-color: black;
+    padding: 2rem;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    outline: 0.5rem inset purple;
+    outline-offset: 1rem;
+    text-transform: uppercase;
+    line-height: 5rem;
+} 
+
+.heading-container-3{
+    text-align: center;
+    font-size: 2rem;
+    letter-spacing: 0.5rem;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    line-height: 1.8rem;
+}
+
+.background-image-container-4{
+    background-image: url(https://mark-mad.github.io/parallax-website/assets/bg4.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.7;
+}
+
+.heading-first-4{
+    background-color: black;
+    padding: 2rem;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    outline: 0.5rem inset purple;
+    outline-offset: 1rem;
+    text-transform: uppercase;
+    line-height: 5rem;
+} 
+
+.heading-container-4{
+    text-align: center;
+    font-size: 2rem;
+    letter-spacing: 0.5rem;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    line-height: 1.8rem;
+}
+
+.why{
+    color: white;
+    font-family: sans-serif;
+    font-size: 24px;
+    padding: 1rem;
+}
+
+.from{
+    color: white;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.paragraph-4{
+    background-color: #282e34;
+    height: 35vh;
+}
